@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vamsi Krishna
+- 👋 Hi, I’m Vamsi Krishna
 - 👀 I’m interested in Data Engineering and Sciences
 - 🌱 I’m currently learning Data Management and Governance
 - 💞️ I’m looking to collaborate on Data Ops and MLops
