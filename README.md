@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering and Sciences
 - 🌱 I’m currently learning Data Management and Governance
 - 💞️ I’m looking to collaborate on Data Ops and MLops
-- 📫 How to reach me : vamsi.krishna@keppflying.aero
+- 📫 How to reach me : vamsi.krishna@keepflying.aero
 
 <!---
 vamsicbmm/vamsicbmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
